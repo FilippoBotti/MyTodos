@@ -7,15 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		412105F825752A55001F3947 /* MDFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 412105F725752A55001F3947 /* MDFilter.m */; };
+		412105FB25769979001F3947 /* cardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 412105FA25769979001F3947 /* cardViewController.m */; };
+		4122425A25AF4E4A00FDD26D /* CategoryControllerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4122425925AF4E4A00FDD26D /* CategoryControllerViewController.m */; };
+		4122426025AF614B00FDD26D /* CategoryTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4122425F25AF614B00FDD26D /* CategoryTableViewCell.m */; };
+		4122426525AF65AC00FDD26D /* Category+CoreDataClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4122426225AF65AC00FDD26D /* Category+CoreDataClass.m */; };
+		4122426625AF65AC00FDD26D /* Category+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 4122426425AF65AC00FDD26D /* Category+CoreDataProperties.m */; };
+		4161E3BF25A5CC6F00BA00AA /* today-icon-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4161E3BE25A5CC6E00BA00AA /* today-icon-5.jpg */; };
+		418C00882573222E00234430 /* ToDo+CoreDataClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 418C00852573222E00234430 /* ToDo+CoreDataClass.m */; };
+		418C00892573222E00234430 /* ToDo+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 418C00872573222E00234430 /* ToDo+CoreDataProperties.m */; };
+		418C008A257324CE00234430 /* Todo.xcdatamodeld in Resources */ = {isa = PBXBuildFile; fileRef = 41A33601256EFAA000ED82DD /* Todo.xcdatamodeld */; };
 		41A335FA256EFAA000ED82DD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 41A335F9256EFAA000ED82DD /* AppDelegate.m */; };
-		41A335FD256EFAA000ED82DD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41A335FC256EFAA000ED82DD /* ViewController.m */; };
 		41A33600256EFAA000ED82DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41A335FE256EFAA000ED82DD /* Main.storyboard */; };
-		41A33603256EFAA000ED82DD /* Todo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 41A33601256EFAA000ED82DD /* Todo.xcdatamodeld */; };
 		41A33605256EFAA000ED82DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41A33604256EFAA000ED82DD /* Assets.xcassets */; };
 		41A33608256EFAA000ED82DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41A33606256EFAA000ED82DD /* LaunchScreen.storyboard */; };
 		41A3360B256EFAA000ED82DD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 41A3360A256EFAA000ED82DD /* main.m */; };
 		41A33615256EFAA000ED82DD /* TodoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 41A33614256EFAA000ED82DD /* TodoTests.m */; };
 		41A33620256EFAA000ED82DD /* TodoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 41A3361F256EFAA000ED82DD /* TodoUITests.m */; };
+		41A33631256EFB0100ED82DD /* ToDoTableViewTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41A3362F256EFB0000ED82DD /* ToDoTableViewTableViewController.m */; };
+		41C14AAD256F0EF700686A74 /* TodoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 41C14AAC256F0EF700686A74 /* TodoTableViewCell.m */; };
+		41C14AAF256F135B00686A74 /* postit2.png in Resources */ = {isa = PBXBuildFile; fileRef = 41C14AAE256F135B00686A74 /* postit2.png */; };
+		41C14AB2256F152E00686A74 /* unnamed.png in Resources */ = {isa = PBXBuildFile; fileRef = 41C14AB1256F152E00686A74 /* unnamed.png */; };
+		41C14AB5256F306400686A74 /* AddNewTodoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41C14AB4256F306400686A74 /* AddNewTodoViewController.m */; };
+		41CB47122570100A0092F373 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41CB47112570100A0092F373 /* SearchViewController.m */; };
+		41EAD1F8257168DA00876E95 /* ideatodone+banner_v07_B.png in Resources */ = {isa = PBXBuildFile; fileRef = 41EAD1F7257168DA00876E95 /* ideatodone+banner_v07_B.png */; };
+		41EAD1FB25716B8F00876E95 /* ShowToDoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41EAD1FA25716B8F00876E95 /* ShowToDoViewController.m */; };
+		41EAD1FD2571745200876E95 /* done.png in Resources */ = {isa = PBXBuildFile; fileRef = 41EAD1FC2571745100876E95 /* done.png */; };
+		41FBA65625A7D49000E4BBE0 /* StatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41FBA65525A7D49000E4BBE0 /* StatsViewController.m */; };
+		41FBA65925A7D6F000E4BBE0 /* CardCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 41FBA65825A7D6F000E4BBE0 /* CardCollectionViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +55,29 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		412105F625752A55001F3947 /* MDFilter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MDFilter.h; sourceTree = "<group>"; };
+		412105F725752A55001F3947 /* MDFilter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MDFilter.m; sourceTree = "<group>"; };
+		412105F925769979001F3947 /* cardViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cardViewController.h; sourceTree = "<group>"; };
+		412105FA25769979001F3947 /* cardViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cardViewController.m; sourceTree = "<group>"; };
+		4122425825AF4E4A00FDD26D /* CategoryControllerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CategoryControllerViewController.h; sourceTree = "<group>"; };
+		4122425925AF4E4A00FDD26D /* CategoryControllerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CategoryControllerViewController.m; sourceTree = "<group>"; };
+		4122425E25AF614B00FDD26D /* CategoryTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CategoryTableViewCell.h; sourceTree = "<group>"; };
+		4122425F25AF614B00FDD26D /* CategoryTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CategoryTableViewCell.m; sourceTree = "<group>"; };
+		4122426125AF65AC00FDD26D /* Category+CoreDataClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Category+CoreDataClass.h"; sourceTree = "<group>"; };
+		4122426225AF65AC00FDD26D /* Category+CoreDataClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Category+CoreDataClass.m"; sourceTree = "<group>"; };
+		4122426325AF65AC00FDD26D /* Category+CoreDataProperties.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Category+CoreDataProperties.h"; sourceTree = "<group>"; };
+		4122426425AF65AC00FDD26D /* Category+CoreDataProperties.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Category+CoreDataProperties.m"; sourceTree = "<group>"; };
+		4161E3BE25A5CC6E00BA00AA /* today-icon-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "today-icon-5.jpg"; sourceTree = "<group>"; };
+		418C00842573222E00234430 /* ToDo+CoreDataClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ToDo+CoreDataClass.h"; sourceTree = "<group>"; };
+		418C00852573222E00234430 /* ToDo+CoreDataClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "ToDo+CoreDataClass.m"; sourceTree = "<group>"; };
+		418C00862573222E00234430 /* ToDo+CoreDataProperties.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ToDo+CoreDataProperties.h"; sourceTree = "<group>"; };
+		418C00872573222E00234430 /* ToDo+CoreDataProperties.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "ToDo+CoreDataProperties.m"; sourceTree = "<group>"; };
 		41A335F5256EFAA000ED82DD /* Todo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A335F8256EFAA000ED82DD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		41A335F9256EFAA000ED82DD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		41A335FB256EFAA000ED82DD /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		41A335FC256EFAA000ED82DD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		41A335FF256EFAA000ED82DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		41A33602256EFAA000ED82DD /* Todo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Todo.xcdatamodel; sourceTree = "<group>"; };
-		41A33604256EFAA000ED82DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		41A33604256EFAA000ED82DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Todo/Assets.xcassets; sourceTree = SOURCE_ROOT; };
 		41A33607256EFAA000ED82DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41A33609256EFAA000ED82DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41A3360A256EFAA000ED82DD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -53,6 +87,24 @@
 		41A3361B256EFAA000ED82DD /* TodoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41A3361F256EFAA000ED82DD /* TodoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TodoUITests.m; sourceTree = "<group>"; };
 		41A33621256EFAA000ED82DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41A3362D256EFB0000ED82DD /* ToDoTableViewTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToDoTableViewTableViewController.h; sourceTree = "<group>"; };
+		41A3362F256EFB0000ED82DD /* ToDoTableViewTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ToDoTableViewTableViewController.m; sourceTree = "<group>"; };
+		41C14AAB256F0EF700686A74 /* TodoTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TodoTableViewCell.h; sourceTree = "<group>"; };
+		41C14AAC256F0EF700686A74 /* TodoTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TodoTableViewCell.m; sourceTree = "<group>"; };
+		41C14AAE256F135B00686A74 /* postit2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = postit2.png; sourceTree = "<group>"; };
+		41C14AB1256F152E00686A74 /* unnamed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unnamed.png; sourceTree = "<group>"; };
+		41C14AB3256F306400686A74 /* AddNewTodoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AddNewTodoViewController.h; sourceTree = "<group>"; };
+		41C14AB4256F306400686A74 /* AddNewTodoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddNewTodoViewController.m; sourceTree = "<group>"; };
+		41CB4710257010090092F373 /* SearchViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		41CB47112570100A0092F373 /* SearchViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		41EAD1F7257168DA00876E95 /* ideatodone+banner_v07_B.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ideatodone+banner_v07_B.png"; sourceTree = "<group>"; };
+		41EAD1F925716B8F00876E95 /* ShowToDoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShowToDoViewController.h; sourceTree = "<group>"; };
+		41EAD1FA25716B8F00876E95 /* ShowToDoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ShowToDoViewController.m; sourceTree = "<group>"; };
+		41EAD1FC2571745100876E95 /* done.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = done.png; sourceTree = "<group>"; };
+		41FBA65425A7D49000E4BBE0 /* StatsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StatsViewController.h; sourceTree = "<group>"; };
+		41FBA65525A7D49000E4BBE0 /* StatsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StatsViewController.m; sourceTree = "<group>"; };
+		41FBA65725A7D6F000E4BBE0 /* CardCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CardCollectionViewCell.h; sourceTree = "<group>"; };
+		41FBA65825A7D6F000E4BBE0 /* CardCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CardCollectionViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +135,14 @@
 		41A335EC256EFA9F00ED82DD = {
 			isa = PBXGroup;
 			children = (
+				4122426125AF65AC00FDD26D /* Category+CoreDataClass.h */,
+				4122426225AF65AC00FDD26D /* Category+CoreDataClass.m */,
+				4122426325AF65AC00FDD26D /* Category+CoreDataProperties.h */,
+				4122426425AF65AC00FDD26D /* Category+CoreDataProperties.m */,
+				418C00842573222E00234430 /* ToDo+CoreDataClass.h */,
+				418C00852573222E00234430 /* ToDo+CoreDataClass.m */,
+				418C00862573222E00234430 /* ToDo+CoreDataProperties.h */,
+				418C00872573222E00234430 /* ToDo+CoreDataProperties.m */,
 				41A335F7256EFAA000ED82DD /* Todo */,
 				41A33613256EFAA000ED82DD /* TodoTests */,
 				41A3361E256EFAA000ED82DD /* TodoUITests */,
@@ -103,16 +163,37 @@
 		41A335F7256EFAA000ED82DD /* Todo */ = {
 			isa = PBXGroup;
 			children = (
+				41C14AB0256F137800686A74 /* resources */,
 				41A335F8256EFAA000ED82DD /* AppDelegate.h */,
 				41A335F9256EFAA000ED82DD /* AppDelegate.m */,
-				41A335FB256EFAA000ED82DD /* ViewController.h */,
-				41A335FC256EFAA000ED82DD /* ViewController.m */,
+				41A3362D256EFB0000ED82DD /* ToDoTableViewTableViewController.h */,
+				41A3362F256EFB0000ED82DD /* ToDoTableViewTableViewController.m */,
 				41A335FE256EFAA000ED82DD /* Main.storyboard */,
 				41A33604256EFAA000ED82DD /* Assets.xcassets */,
 				41A33606256EFAA000ED82DD /* LaunchScreen.storyboard */,
 				41A33609256EFAA000ED82DD /* Info.plist */,
 				41A3360A256EFAA000ED82DD /* main.m */,
 				41A33601256EFAA000ED82DD /* Todo.xcdatamodeld */,
+				41C14AAB256F0EF700686A74 /* TodoTableViewCell.h */,
+				41C14AAC256F0EF700686A74 /* TodoTableViewCell.m */,
+				41C14AB3256F306400686A74 /* AddNewTodoViewController.h */,
+				41C14AB4256F306400686A74 /* AddNewTodoViewController.m */,
+				41CB4710257010090092F373 /* SearchViewController.h */,
+				41CB47112570100A0092F373 /* SearchViewController.m */,
+				41EAD1F925716B8F00876E95 /* ShowToDoViewController.h */,
+				41EAD1FA25716B8F00876E95 /* ShowToDoViewController.m */,
+				412105F625752A55001F3947 /* MDFilter.h */,
+				412105F725752A55001F3947 /* MDFilter.m */,
+				412105F925769979001F3947 /* cardViewController.h */,
+				412105FA25769979001F3947 /* cardViewController.m */,
+				41FBA65425A7D49000E4BBE0 /* StatsViewController.h */,
+				41FBA65525A7D49000E4BBE0 /* StatsViewController.m */,
+				41FBA65725A7D6F000E4BBE0 /* CardCollectionViewCell.h */,
+				41FBA65825A7D6F000E4BBE0 /* CardCollectionViewCell.m */,
+				4122425825AF4E4A00FDD26D /* CategoryControllerViewController.h */,
+				4122425925AF4E4A00FDD26D /* CategoryControllerViewController.m */,
+				4122425E25AF614B00FDD26D /* CategoryTableViewCell.h */,
+				4122425F25AF614B00FDD26D /* CategoryTableViewCell.m */,
 			);
 			path = Todo;
 			sourceTree = "<group>";
@@ -133,6 +214,18 @@
 				41A33621256EFAA000ED82DD /* Info.plist */,
 			);
 			path = TodoUITests;
+			sourceTree = "<group>";
+		};
+		41C14AB0256F137800686A74 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				4161E3BE25A5CC6E00BA00AA /* today-icon-5.jpg */,
+				41C14AB1256F152E00686A74 /* unnamed.png */,
+				41EAD1F7257168DA00876E95 /* ideatodone+banner_v07_B.png */,
+				41EAD1FC2571745100876E95 /* done.png */,
+				41C14AAE256F135B00686A74 /* postit2.png */,
+			);
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,9 +334,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				418C008A257324CE00234430 /* Todo.xcdatamodeld in Resources */,
 				41A33608256EFAA000ED82DD /* LaunchScreen.storyboard in Resources */,
 				41A33605256EFAA000ED82DD /* Assets.xcassets in Resources */,
+				4161E3BF25A5CC6F00BA00AA /* today-icon-5.jpg in Resources */,
+				41EAD1F8257168DA00876E95 /* ideatodone+banner_v07_B.png in Resources */,
+				41EAD1FD2571745200876E95 /* done.png in Resources */,
 				41A33600256EFAA000ED82DD /* Main.storyboard in Resources */,
+				41C14AB2256F152E00686A74 /* unnamed.png in Resources */,
+				41C14AAF256F135B00686A74 /* postit2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,10 +367,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41A335FD256EFAA000ED82DD /* ViewController.m in Sources */,
-				41A33603256EFAA000ED82DD /* Todo.xcdatamodeld in Sources */,
+				4122425A25AF4E4A00FDD26D /* CategoryControllerViewController.m in Sources */,
+				4122426025AF614B00FDD26D /* CategoryTableViewCell.m in Sources */,
+				41C14AAD256F0EF700686A74 /* TodoTableViewCell.m in Sources */,
+				41A33631256EFB0100ED82DD /* ToDoTableViewTableViewController.m in Sources */,
+				41FBA65625A7D49000E4BBE0 /* StatsViewController.m in Sources */,
+				4122426525AF65AC00FDD26D /* Category+CoreDataClass.m in Sources */,
 				41A3360B256EFAA000ED82DD /* main.m in Sources */,
+				41FBA65925A7D6F000E4BBE0 /* CardCollectionViewCell.m in Sources */,
 				41A335FA256EFAA000ED82DD /* AppDelegate.m in Sources */,
+				412105FB25769979001F3947 /* cardViewController.m in Sources */,
+				418C00882573222E00234430 /* ToDo+CoreDataClass.m in Sources */,
+				4122426625AF65AC00FDD26D /* Category+CoreDataProperties.m in Sources */,
+				41EAD1FB25716B8F00876E95 /* ShowToDoViewController.m in Sources */,
+				412105F825752A55001F3947 /* MDFilter.m in Sources */,
+				41CB47122570100A0092F373 /* SearchViewController.m in Sources */,
+				41C14AB5256F306400686A74 /* AddNewTodoViewController.m in Sources */,
+				418C00892573222E00234430 /* ToDo+CoreDataProperties.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,6 +548,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4TVF798KRM;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Todo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mobdev.todolist.Todo;
@@ -450,6 +563,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4TVF798KRM;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Todo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mobdev.todolist.Todo;
