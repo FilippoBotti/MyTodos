@@ -33,8 +33,7 @@ Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni 
 </p>
 
 <br><br><br><img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Stats.png" alt="img-verification" width="250" align="left"/>
-                          
- <br><br><br>
+           
  <br><br><br><br><br>
   Perchè non inserire un po' di <strong><em>Gamification</em></strong> anche in una ToDoApp? <br>
   Ecco, tutte le statistiche per ricordarti che sei un pigro che non porta a termine mezzo impegno. (ma so benissimo che voi li porterete tutti a termine)
