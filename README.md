@@ -44,6 +44,10 @@ Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni 
 Immancabile in un'App così una <strong><em>customizzazione</em></strong> elevata. <br>
 Inserisci tutte le categorie che vuoi. <br>
 <em>Ti dimentichi spesso gli impegni relativi a tua suocera? Inserisci la categoria inferno</em>
+
+<br><br><br><img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Search.png" alt="img-verification" width="250" align="left"/>
+Ovviamente non vuoi cercare i ToDo che non hai portato a termine un anno fa? <br>
+<em>Cosa fai, te ne privi? </em>
                         
  <br><br><br>
  <br><br><br><br><br>                        
