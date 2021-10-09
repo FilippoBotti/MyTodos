@@ -37,7 +37,7 @@ Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni 
  <br><br><br>
  <br><br><br><br><br>
   Perchè non inserire un po' di <strong><em>Gamification</em></strong> anche in una ToDoApp? <br>
-  Ecco, tutte le statistiche per ricordarti che sei un pigro che non porta a termine mezzo impegno. (ma so benissimo che voi li portate tutti a termine)
+  Ecco, tutte le statistiche per ricordarti che sei un pigro che non porta a termine mezzo impegno. (ma so benissimo che voi li porterete tutti a termine)
 
 
 <br><br><br><img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Categories.png" alt="img-verification" width="250" align="left"/>
