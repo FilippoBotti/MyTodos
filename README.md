@@ -14,13 +14,13 @@ e farvi da segretaria personale. <br>
 
 
 <img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Dettaglio.png" alt="img-verification" width="250" align="right"/>
-
+<p align="right"
   Clicca su ogni ToDo per vedere tutte le sue informazioni. <br>
 Vuoi sapere quando devi completarlo? <strong>Clicca sul ToDo</strong>  <br>
 Vuoi sapere le note che ti sei appuntato? <strong>Clicca sul ToDo</strong><br>
 Vuoi sapere la data di creazione? <em>(Sì, il mio professore era fissato con le date)</em> <br>
 <strong>Clicca su quel <em>maledetto</em> ToDo</strong>
-
+</p>
 
 <img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Check.png" alt="img-verification" width="250" align="right"/>
   Hai portato a termine un ToDo? <strong> Doppio click! </strong> <br>
@@ -33,7 +33,7 @@ Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni 
   Le date e le categorie hanno un fantastico menu a scorrimento, fidati ne vale la pena.
 </p>
 
-<br><br><br><img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Stats.png" alt="img-verification" width="250" align="left"/>
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Stats.png" alt="img-verification" width="250" align="left"/>
            
  <br><br><br><br><br>
   Perchè non inserire un po' di <strong><em>Gamification</em></strong> anche in una ToDoApp? <br>
