@@ -12,7 +12,8 @@ e farvi da segretaria personale. <br>
 
 <h2>Vai con la solita carrellata di immagini</h2>
 
-![](https://github.com/FilippoBotti/MyTodos/blob/main/images/Dettaglio.png)
+
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Dettaglio.png" alt="img-verification" width="250" align="right"/>
 
   Clicca su ogni ToDo per vedere tutte le sue informazioni. <br>
 Vuoi sapere quando devi completarlo? <strong>Clicca sul ToDo</strong>  <br>
@@ -21,7 +22,7 @@ Vuoi sapere la data di creazione? <em>(Sì, il mio professore era fissato con le
 <strong>Clicca su quel <em>maledetto</em> ToDo</strong>
 
 
-![](https://github.com/FilippoBotti/MyTodos/blob/main/images/Check.png)
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Check.png" alt="img-verification" width="250" align="right"/>
   Hai portato a termine un ToDo? <strong> Doppio click! </strong> <br>
 Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni a riga di comando.
 
@@ -50,7 +51,6 @@ Ovviamente non vuoi cercare i ToDo che non hai portato a termine un anno fa? <br
                         
  <br><br><br>
 
- <br><br><br><br><br><br><br>
 <h2>Parliamo seriamente </h2>
 Quest'app è il risultato di un progetto universitario finalizzato a fornire le conoscenze di base sullo sviluppo mobile (iOS e Android). <br>
 La consegna del progetto riguardava lo sviluppo di un'applicazione iOS per la gestione dei ToDo (i classici promemoria). <br>
