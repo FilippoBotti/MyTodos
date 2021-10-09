@@ -12,35 +12,36 @@ e farvi da segretaria personale. <br>
 
 <h2>Vai con la solita carrellata di immagini</h2>
 
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Dettaglio.png" alt="img-verification" width="250" align="left"/>
 
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Dettaglio.png" alt="img-verification" width="250" align="right"/>
-<p align="right"
   Clicca su ogni ToDo per vedere tutte le sue informazioni. <br>
 Vuoi sapere quando devi completarlo? <strong>Clicca sul ToDo</strong>  <br>
 Vuoi sapere le note che ti sei appuntato? <strong>Clicca sul ToDo</strong><br>
 Vuoi sapere la data di creazione? <em>(Sì, il mio professore era fissato con le date)</em> <br>
 <strong>Clicca su quel <em>maledetto</em> ToDo</strong>
-</p>
 
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Check.png" alt="img-verification" width="250" align="right"/>
+
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Check.png" alt="img-verification" width="250" align="left"/>
   Hai portato a termine un ToDo? <strong> Doppio click! </strong> <br>
 Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni a riga di comando.
 
 
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Insert.png" alt="img-verification" width="250" align="right"/>
-<p align="right">
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Insert.png" alt="img-verification" width="250" align="left"/>
+
   Certo, avere una penna stilografica ed un taccuino nella tasca della giacca farebbe molto più figo, ma vuoi mettere un bianco su blu così accattivante? <br>
   Le date e le categorie hanno un fantastico menu a scorrimento, fidati ne vale la pena.
-</p>
 
+
+                        
+<br><br><br>                        
+<br><br><br>                        
+<br><br><br>
 <img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Stats.png" alt="img-verification" width="250" align="left"/>
-           
- <br><br><br><br><br>
+      
   Perchè non inserire un po' di <strong><em>Gamification</em></strong> anche in una ToDoApp? <br>
   Ecco, tutte le statistiche per ricordarti che sei un pigro che non porta a termine mezzo impegno. (ma so benissimo che voi li porterete tutti a termine)
 
-
-<br><br><br><img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Categories.png" alt="img-verification" width="250" align="left"/>
+<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Categories.png" alt="img-verification" width="250" align="left"/>
 Immancabile in un'App così una <strong><em>customizzazione</em></strong> elevata. <br>
 Inserisci tutte le categorie che vuoi. <br>
 <em>Ti dimentichi spesso gli impegni relativi a tua suocera? Inserisci la categoria inferno</em>
@@ -48,7 +49,8 @@ Inserisci tutte le categorie che vuoi. <br>
 <br><img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Search.png" alt="img-verification" width="250" align="left"/>
 Ovviamente non vuoi cercare i ToDo che non hai portato a termine un anno fa? <br>
 <em>Cosa fai, te ne privi? </em>
-                        
+
+
  <br><br><br>
 
 <h2>Parliamo seriamente </h2>
