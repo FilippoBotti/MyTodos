@@ -34,8 +34,7 @@ Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni 
 
                         
 <br><br><br>                        
-<br><br><br>                        
-<br><br><br>
+
 <img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Stats.png" alt="img-verification" width="250" align="left"/>
       
   Perchè non inserire un po' di <strong><em>Gamification</em></strong> anche in una ToDoApp? <br>
