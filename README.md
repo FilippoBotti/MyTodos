@@ -11,20 +11,20 @@ Scritta in objective-c come se fosse il 2010 e con un design accattivante perfet
 e farvi da segretaria personale. <br>
 
 <h2>Vai con la solita carrellata di immagini</h2>
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Dettaglio.png" alt="img-verification" width="250" align="right"/>
-<p align="right">
+
+![](https://github.com/FilippoBotti/MyTodos/blob/main/images/Dettaglio.png)
+
   Clicca su ogni ToDo per vedere tutte le sue informazioni. <br>
 Vuoi sapere quando devi completarlo? <strong>Clicca sul ToDo</strong>  <br>
 Vuoi sapere le note che ti sei appuntato? <strong>Clicca sul ToDo</strong><br>
 Vuoi sapere la data di creazione? <em>(Sì, il mio professore era fissato con le date)</em> <br>
 <strong>Clicca su quel <em>maledetto</em> ToDo</strong>
-</p>
 
-<img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Check.png" alt="img-verification" width="250" align="right"/>
-<p align="right">
+
+![](https://github.com/FilippoBotti/MyTodos/blob/main/images/Check.png)
   Hai portato a termine un ToDo? <strong> Doppio click! </strong> <br>
 Guarda che bel checkmark che compare sul ToDo, da far rimpiangere le istruzioni a riga di comando.
-</p>
+
 
 <img class="img-fluid" src="https://github.com/FilippoBotti/MyTodos/blob/main/images/Insert.png" alt="img-verification" width="250" align="right"/>
 <p align="right">
