@@ -49,8 +49,7 @@ Ovviamente non vuoi cercare i ToDo che non hai portato a termine un anno fa? <br
 <em>Cosa fai, te ne privi? </em>
                         
  <br><br><br>
- <br><br><br><br><br>                        
- <br><br><br>
+
  <br><br><br><br><br><br><br>
 <h2>Parliamo seriamente </h2>
 Quest'app è il risultato di un progetto universitario finalizzato a fornire le conoscenze di base sullo sviluppo mobile (iOS e Android). <br>
